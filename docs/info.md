@@ -8,13 +8,14 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+My 9-year-old son made an 8-bit counter chip following instructions and a picture with a brief explanation.
 
-Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+The output from Q0 to Q7 counts up in binary.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+The output from Q0 to Q7 counts up in binary using an LED Pmod.
